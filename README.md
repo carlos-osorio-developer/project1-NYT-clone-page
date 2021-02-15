@@ -46,7 +46,7 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Carlos Osorio**
 
-- GitHub: [@carlos-osorio-developer](https://github.com/carlos-osorio-developer)
+- GitHub: [@carlos-osorio-developer ](https://github.com/carlos-osorio-developer)
 - Twitter: [@OsorioDevelops](hhttps://twitter.com/OsorioDevelops)
 - LinkedIn: [Carlos Osorio](https://www.linkedin.com/in/carlos-osorio-developer/)
 
