@@ -1,0 +1,10 @@
+
+* {
+  font-size: 16px;
+  font-style: normal;
+}
+
+body header {
+  height: 100px;
+  background-color: #33d6b8;
+}
