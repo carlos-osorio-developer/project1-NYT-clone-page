@@ -6,41 +6,45 @@
 
 ![screenshot](./app_screenshot.png)
 
-It has 2 files: The first one is index.html with a header saying "Hello world"
+This is the first project for Microverse, a clone page for this New York Times article:
 
-The second is styles.css with a style for the header of the page.
+https://www.nytimes.com/2014/03/18/science/space/detection-of-waves-in-space-buttresses-landmark-theory-of-big-bang.html?_r=0
+
+In this exercise different kinds of positioning, flexbox, and semantic tags are implemented to develop a page as most similar as possible to the original.
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML
+- CSS
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://carlos-osorio-developer.github.io/)
 
 
 ## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
 
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
+git
+
 ### Setup
+
+Open your terminal and locate on the folder you want to clone the repository.
 
 ### Install
 
+Run the following command into your terminal: 
+
+```console
+git clone https://github.com/carlos-osorio-developer/MV-Week1-NYT
+```
+
 ### Usage
 
-### Run tests
-
-### Deployment
-
+Run index.html in your preferred browser.
 
 ## Authors
 
@@ -55,7 +59,7 @@ To get a local copy up and running follow these simple example steps.
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](issues/).
+Feel free to check the [issues page](./issues/).
 
 ## Show your support
 
@@ -63,9 +67,8 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- Thanks to Microverse and his supportive community.
+- Let's rock!
 
 ## 📝 License
 
