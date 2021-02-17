@@ -417,10 +417,6 @@ footer {
   font-weight: normal;
 }
 
-.footernav .smalltext a {
-  color: black;
-}
-
 .big-ul li a {
   font-weight: bolder;
   font-size: 0.875rem;
@@ -454,6 +450,10 @@ footer {
   font-size: 0.75em;
   font-weight: lighter;
   color: #a0a0a0;
+}
+
+.footernav .smalltext a {
+  color: black;
 }
 
 /* queries */
