@@ -19,7 +19,7 @@ In this exercise different kinds of positioning, flexbox, and semantic tags are 
 
 ## Live Demo
 
-[Live Demo Link](https://carlos-osorio-developer.github.io/)
+[Live Demo Link](https://carlos-osorio-developer.github.io/mv-week1-nyt/)
 
 
 ## Getting Started
