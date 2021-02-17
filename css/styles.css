@@ -89,7 +89,7 @@ figcaption p span {
 
 /* logo */
 
-header img {
+.logo img {
   height: 30px;
   width: 200px;
   margin: 5px 0;
@@ -325,7 +325,7 @@ header ul .logo {
   justify-content: space-between;
 }
 
-.topdiv span {
+.suggleft > div > span {
   display: inline-block;
   float: right;
 }
@@ -382,7 +382,68 @@ header ul .logo {
   color: #a5a5a5;
 }
 
+/* footer */
 
+footer {
+  margin: 0 40px;
+  border-top: #a0a0a0 double 3px;
+}
+
+.logo span {
+  display: inline-block;
+  float: right;
+  color: #326891;
+  line-height: 40px;
+  font-size: 0.75em;
+}
+
+.footernav {
+  display: flex;
+  justify-content: space-between;
+}
+
+.footernav ul {
+  padding: 10px 0;
+}
+
+.footernav li a {
+  font-weight: normal;
+}
+
+.big-ul li a{
+  font-weight: bolder;
+  font-size: 0.875rem;
+}
+
+.big-ul li {
+  padding: 5px 0;
+}
+
+.border-top {
+  border-top: #a5a5a5 solid 1px;
+}
+
+.border-left {
+  border-left: #a5a5a5 solid 1px;
+  padding-left: 20px;
+  flex-basis: 15%;
+}
+
+/* copyright */
+
+.copyright ul{
+  display: flex;
+  justify-content: space-between;
+  border-top: #a5a5a5 solid 1px;
+  margin-top: 20px;
+  padding: 10px 20px;
+}
+
+.copyright li a {
+  font-size: 0.75em;
+  font-weight: lighter;
+  color: #a0a0a0;
+}
 
 /* queries */
 
