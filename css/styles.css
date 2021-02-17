@@ -455,8 +455,6 @@ footer {
   color: black;
 }
 
-<<<<<<< HEAD
-<<<<<<< HEAD
 /* fixed footer */
 
 #bottom-footer {
@@ -492,10 +490,6 @@ footer {
   padding-right: 40px;
 }
 
-=======
->>>>>>> 70b3571c9867bd015b89f9ef9ce5d8889c0a984c
-=======
->>>>>>> 70b3571c9867bd015b89f9ef9ce5d8889c0a984c
 /* queries */
 
 @media all and (max-width: 1040px) {
