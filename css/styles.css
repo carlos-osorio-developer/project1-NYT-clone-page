@@ -360,7 +360,6 @@ header ul .logo {
 }
 
 .logo span {
-  display: inline-block;
   float: right;
   color: #326891;
   line-height: 40px;
@@ -368,7 +367,6 @@ header ul .logo {
 }
 
 .suggleft > div > span {
-  display: inline-block;
   float: right;
 }
 
@@ -401,6 +399,7 @@ header ul .logo {
 
 footer {
   margin: 0 40px;
+  padding-bottom: 50px;
   border-top: #a0a0a0 double 3px;
 }
 
@@ -415,10 +414,6 @@ footer {
 
 .footernav li a {
   font-weight: normal;
-}
-
-.footernav .smalltext a {
-  color: black;
 }
 
 .big-ul li a {
@@ -451,11 +446,53 @@ footer {
 }
 
 .copyright li a {
-  font-size: 0.75em;
+  font-size: 0.875em;
   font-weight: lighter;
   color: #a0a0a0;
 }
 
+.footernav .smalltext a {
+  color: black;
+}
+
+<<<<<<< HEAD
+/* fixed footer */
+
+#bottom-footer {
+  position: fixed;
+  bottom: 0;
+  height: 50px;
+  width: 100%;
+  padding: 0 2px;
+  background-color: #fff;
+  z-index: 10;
+  border-top: #000 solid 1px;
+  display: inline-block;
+}
+
+#bottom-footer .textfooter {
+  position: absolute;
+  width: 100%;
+  padding-top: 15px;
+  text-align: center;
+}
+
+#bottom-footer .iconsfooter {
+  display: flex;
+  height: 100%;
+  justify-content: flex-end;
+  align-items: center;
+  vertical-align: baseline;
+  padding: 0 50px;
+}
+
+#bottom-footer .iconsfooter span {
+  font-weight: bold;
+  padding-right: 40px;
+}
+
+=======
+>>>>>>> 70b3571c9867bd015b89f9ef9ce5d8889c0a984c
 /* queries */
 
 @media all and (max-width: 1040px) {
