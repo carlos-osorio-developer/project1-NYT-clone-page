@@ -55,21 +55,28 @@ h2 {
   line-height: 1.25rem;
 }
 
-.wrap figcaption p {
-  color: #616161;
-}
-
 .insidecol p {
   font-size: 1.375em;
   line-height: 1.875rem;
+}
+
+.wrap figcaption p {
+  color: #616161;
 }
 
 .smalltext span,
 .smalltext a {
   font-family: inherit;
   font-size: inherit;
-  font-weight: bold;
+  font-weight: bold;  
+}
+
+.smalltext a {
   color: #a0a0a0;
+}
+
+.footernav .smalltext a {
+  color: black;
 }
 
 .side-text span {
@@ -80,6 +87,15 @@ h2 {
 .side-text h2 {
   border-bottom: #a0a0a0 solid 1px;
   padding-bottom: 20px;
+}
+
+.boxsuggart span {
+  text-align: right;
+  color: #a5a5a5;
+}
+
+.boxsuggart > span {
+  color: black;
 }
 
 /* IMAGES */
@@ -97,11 +113,6 @@ h2 {
   height: 550px;
   width: 950px;
   margin: auto;
-}
-
-#suggestions .boxsugg img {
-  height: 80px;
-  width: 80px;
 }
 
 .boxsuggart img {
@@ -122,6 +133,11 @@ h2 {
 #parr-2 img {
   height: 400px;
   width: 600px;
+}
+
+#suggestions .boxsugg img {
+  height: 80px;
+  width: 80px;
 }
 
 figure iframe {
@@ -345,11 +361,6 @@ header ul .logo {
 .boxsugg span {
   clear: left;
   display: block;
-}
-
-.boxsuggart span {
-  text-align: right;
-  color: #a5a5a5;
 }
 
 .logo span {
