@@ -490,6 +490,69 @@ footer {
   padding-right: 40px;
 }
 
+/* form */
+
+#comments {
+  position: fixed;
+  z-index: 5;
+  bottom: 0;
+  width: 180px;
+  height: 80px;
+  padding: 5px;
+  margin-left: 1px;
+  border: #616161 solid 2px;
+  border-radius: 10px;
+  background-color: #e6e6e6;
+  transition: all 0.5s ease;
+}
+
+#comments h2 {
+  font-size: 0.875em;
+  text-align: center;
+  padding: 10px 0;
+}
+
+#comments fieldset {
+  padding: 5px 0;
+  border: none;
+}
+
+#comments label {
+  padding: 5px 0;
+}
+
+#comments textarea {
+  resize: none;
+  border: #616161 solid 1px;
+  border-radius: 5px;
+  margin-bottom: 5px;
+}
+
+#comments .form-button {
+  margin-top: 5px;
+}
+
+#comments:hover {
+  width: 280px;
+  height: 470px;
+}
+
+#comments .form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#comments .input-form-width {
+  width: 258px;
+  border: #616161 solid 1px;
+  border-radius: 5px;
+}
+
+#comments input:invalid {
+  border: #df3131 solid 1px;
+}
+
 /* queries */
 
 @media all and (max-width: 1040px) {
