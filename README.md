@@ -1,5 +1,3 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
-
 # MV-Week1-NYT
 
 > This is the first project for Microverse.
@@ -65,10 +63,6 @@ Feel free to check the [issues page](./issues/).
 
 Give a ⭐️ if you like this project!
 
-## Acknowledgments
-
-- Thanks to Microverse and his supportive community.
-- Let's rock!
 
 ## 📝 License
 
